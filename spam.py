@@ -1,5 +1,5 @@
 import requests
-import fake_useragent
+import icu
 import random
 import os
 import sys
